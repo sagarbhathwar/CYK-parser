@@ -1,0 +1,7 @@
+<STMT>	<STMTA>	<STMTB>
+a	b
+<STMT>
+
+<STMT> -> <STMTA><STMTB>
+<STMTA> -> a
+<STMTB> -> b
